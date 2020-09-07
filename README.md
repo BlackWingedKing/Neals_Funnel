@@ -1,5 +1,5 @@
 # Neals_Funnel
-A small Turing example demonstrating the problem of Reparameterization by sampling from Neals Funnel
+A small Turing example demonstrating the importance of Reparameterization by sampling from Neals Funnel
 
 ## Reparameterization 
 Please read [this](https://mc-stan.org/docs/2_24/stan-users-guide/reparameterization-section.html) to understand what reparameterization is and why it's important
